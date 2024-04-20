@@ -2,7 +2,7 @@
  * @Author: Haaaaai 1306625287@qq.com
  * @Date: 2024-03-15 12:19:51
  * @LastEditors: Haaaaai 1306625287@qq.com
- * @LastEditTime: 2024-04-19 10:18:02
+ * @LastEditTime: 2024-04-20 20:26:22
  * @FilePath: \vue3_admin_template\project\src\views\login\index.vue
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -20,7 +20,7 @@
           ref="loginFormRef"
         >
           <h1>Hello</h1>
-          <h2>欢迎来到硅谷甄选</h2>
+          <h2>欢迎来到Haaaai的后台管理系统</h2>
           <!-- 用户名 -->
           <el-form-item prop="username">
             <el-input
