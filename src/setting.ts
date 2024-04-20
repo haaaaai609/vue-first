@@ -8,7 +8,7 @@
  */
 // 用于设置标题/logo
 export default {
-  title: "硅谷甄选运营平台",
+  title: "HAI管理系统",
   logo: "/public/logo.png",
   logoHidden: true,
 };
